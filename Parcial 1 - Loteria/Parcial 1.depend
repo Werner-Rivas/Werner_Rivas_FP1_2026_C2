@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781300508 source:c:\users\werne\onedrive\documentos\clases\26-c2\fp1\tareas\parcial 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
